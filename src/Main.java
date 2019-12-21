@@ -219,7 +219,7 @@ public class Main {
                             writer.write(tempChar);
                         }
                     }
-
+//to jest pierwsza zmiana do github w celu sprawdzenia poprawności
                 } else if (alg.equals("shift")) {
                     for (char tempChar : charOfInputWord) {
                         if (Character.isLowerCase(tempChar)) {
